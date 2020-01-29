@@ -5,6 +5,7 @@ body {
 
 #main {
     background-color: #eee;
+    margin: 40px 10px 40px 10px;
 }
 
 #img-div {
@@ -14,12 +15,6 @@ body {
 #img-div, h1, p, h3 {
     text-align: center;
 }
-
-/*
-ul, blockquote {
-    margin: 0px 550px;
-}
-*/
 
 #margin {
     margin: 50px;
@@ -40,14 +35,8 @@ blockquote {
     margin: 0 auto 20px auto;
 }
 
-/*
-blockquote p cite {
-    text-align: left;
-    max-width: 550px;
-    margin: 0 auto 20px auto;
-}*/
-
 p {
     text-align: left;
     max-width: 550px;
     margin: 0 auto 20px auto;
+}
